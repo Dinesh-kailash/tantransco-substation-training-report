@@ -12,8 +12,7 @@
 | Training Duration | One Week |
 | Date | 22 June 2026 – 26 June 2026 |
 
-📄 Full report with certificate, diagrams, and photos: [`implant_trainee_report.pdf`](report /implant trainee report.pdf)
-
+📄 Full report with certificate, diagrams, and photos in files
 ---
 
 ## Table of Contents
